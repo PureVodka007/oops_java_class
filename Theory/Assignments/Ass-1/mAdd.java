@@ -12,10 +12,11 @@ import java.util.Scanner;
  */
 public class mAdd
 {
+    static Scanner sc = new Scanner(System.in);
     // fills the matrix
     static int[][] mfill(int r,int c)
     {
-        Scanner sc = new Scanner(System.in);
+        
         int t =0;
         int[][] m= new int [r][c];
 
@@ -28,7 +29,7 @@ public class mAdd
             m[i][j] = t;
              }
        }
-       sc.close();
+       
        return m;
     }
 
@@ -97,9 +98,10 @@ public class mAdd
         System.out.print("No of coloums: ");
         col = sc.nextInt();
         
-        sc.close();
+        
 
         Mat_Add(n, rows, col); // the master function
+        sc.close();
       
         
     }

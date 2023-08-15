@@ -1,0 +1,21 @@
+
+------ JAVA Programs ------
+
+Date: 4/08/23
+
+1. Simple program using cmd line arguments
+	1a.Fibonacci series -- DONE
+	2b.Factorial of a num -- DONE
+	1c. Finding sum , average ,min of two numbers -- Done
+
+
+	fsutil file createnew name.java 0
+
+	
+2.
+	2.a Java program for find a person eligble for voting
+	2.b Program to find largest among Three num using nested if statements
+	2.c Java Program for find weekdays using switch case
+	2.d Java program for find sum of 5 numbers using while loop
+
+3. Arrays

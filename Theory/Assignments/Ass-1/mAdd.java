@@ -28,6 +28,7 @@ public class mAdd
             m[i][j] = t;
              }
        }
+       sc.close();
        return m;
     }
 
@@ -95,6 +96,8 @@ public class mAdd
         rows = sc.nextInt();
         System.out.print("No of coloums: ");
         col = sc.nextInt();
+        
+        sc.close();
 
         Mat_Add(n, rows, col); // the master function
       

@@ -157,7 +157,7 @@ public class mAdd
         rows1 = sc.nextInt();
         System.out.print("No of coloums: ");
         col1 = sc.nextInt();
-        System.out.println("What type of operation: ");
+        System.out.print("What type of operation: ");
         mode = sc.nextInt();
         
         

@@ -1,5 +1,5 @@
+package Week3Programs;
 import java.util.Scanner;
-
 public class rmDup
 {
     static Scanner sc = new Scanner(System.in);

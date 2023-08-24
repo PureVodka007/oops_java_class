@@ -19,3 +19,6 @@ Date: 4/08/23
 	2.d Java program for find sum of 5 numbers using while loop
 
 3. Arrays
+	Remove duplicate elements in a Array
+	search through Array
+	Addition of matrices 
